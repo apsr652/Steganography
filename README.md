@@ -1,4 +1,4 @@
-# stegenography
+# Steganography
 Information Security Technique for hiding important texts inside the images
 
 # To run the file follow these simple steps
